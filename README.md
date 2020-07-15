@@ -1,2 +1,2 @@
 # IP finder
-ip finder that finds your ip and the ip of websites
+ip finder that prints your ip and the ip of chosen websites
